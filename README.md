@@ -9,5 +9,5 @@ The key goal was to analyse the dataset to define which chapter do students stru
 * **Exploratory Data Analysis (EDA)**: Visualised and analysed distribution, patterns within the dataset.
 * **Experiencing CourseKata course**: Experienced CourseKata to understand how CourseKata works on providing contents and giving feedback.
 * **Providing Insights**: Define which chapter is the hardest one based on students' results, identify reasons, then provide recommendation.
-## 🔑 Conclusion:
+## 🔑 Conclusion
 Students struggle the most with the topic of **Explanatory Variables** and **Model comparision with F**. To help students improve, CouseKata should increase engagement level, perform content analysis, provide targeted support on some struggle chapters, and provide feedback mechanism by giving immediate feedback on the review performance. 
